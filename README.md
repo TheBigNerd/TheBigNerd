@@ -1,4 +1,4 @@
-## Hello Everone!!👋
+## Hello Everyone!!👋
 
 I am a final year Computer Science student at Aston University
 
